@@ -1,0 +1,22 @@
+{
+  "name": "timetableikm_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "0.56.0",
+    "pg": "^8.7.3",
+    "screen": "^0.2.10"
+  },
+  "devDependencies": {},
+  "description": "",
+  "engines": {
+    "node": "17.x"
+  }
+}
