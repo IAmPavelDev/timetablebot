@@ -4,7 +4,7 @@ import keyboards from "./keyboards.js"; //конфиг клавиатурыconst
 import dotenv from 'dotenv';
 import today from "./today.js";
 import weekNum from "./weekNum.js";
-
+/*
 import express from "express"
 
 const app = express();
@@ -19,7 +19,7 @@ app.listen(port, () => {
 	console.log(`server running on port: ${port}`);
 });
 
-
+*/
 
 dotenv.config();
 
